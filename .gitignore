@@ -2,5 +2,6 @@
 2sem2/__pycache__
 cossem/Lib
 cossem/Scripts
+cossem/app-wsib-oceny/__pycache__
 cossem/tam/__pycache__
-cossem/pyvenv/.cfg
+cossem/pyvenv.cfg
